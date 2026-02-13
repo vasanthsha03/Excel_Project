@@ -1,22 +1,24 @@
-📊 Sales Analysis Dashboard – Excel Project
+# 📊 Sales Analysis Dashboard – Excel Project
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-📌 Project Overview
+![Sales Dashboard](Screenshot%202026-02-13%20203720.png)
+
+## 📌 Project Overview
 
 This project is an interactive Sales Analysis Dashboard built using Microsoft Excel.
 The dashboard provides insights into restaurant sales performance, delivery efficiency, preparation time, and city-wise sales distribution.
 
 It helps stakeholders quickly analyze performance trends and make data-driven business decisions.
 
-🎯 Business Problem
+## 🎯 Business Problem
 
 Restaurant businesses need to monitor sales performance, delivery time, and preparation efficiency across multiple cities and outlets.
 Manually analyzing raw data is time-consuming and inefficient.
 
 This dashboard solves that problem by providing clear, interactive, and visual insights in one place.
 
-🛠 Tools & Skills Used
+## 🛠 Tools & Skills Used
 
 Microsoft Excel
 
@@ -34,8 +36,9 @@ Data Visualization
 
 Dashboard Design
 
-📊 Dashboard Features
-🔹 Key Performance Indicators (KPIs)
+## 📊 Dashboard Features
+
+## 🔹 Key Performance Indicators (KPIs)
 
 Total Sales: ₹ 4,05,22,375
 
@@ -45,7 +48,7 @@ Average Preparation Time: 17.81 mins
 
 Average Delivery Time: 15.00 mins
 
-🔹 Visual Reports Included
+## 🔹 Visual Reports Included
 
 Sales by Restaurant
 
@@ -59,7 +62,7 @@ City-wise Sales Distribution
 
 City-wise Preparation Time Analysis
 
-📈 Key Insights
+## 📈 Key Insights
 
 Barbeque Nation and Haldiram show higher preparation times compared to other restaurants.
 
@@ -69,9 +72,9 @@ Sales show consistent growth from May to August.
 
 Bangalore and Mumbai contribute significantly to overall sales.
 
-🎛 Interactive Filters
+## 🎛 Interactive Filters
 
-The dashboard includes slicers for:
+## The dashboard includes slicers for:
 
 Month (May, June, July, August)
 
@@ -80,20 +83,3 @@ City (Bangalore, Chennai, Delhi, Mumbai)
 Restaurant Name
 
 Users can dynamically filter the dashboard to analyze specific segments.
-
-🚀 How to Use
-
-Download the Excel file.
-
-Open in Microsoft Excel (2016 or later recommended).
-
-Use slicers to filter data by month, city, or restaurant.
-
-Analyze KPIs and charts for business insights.
-
-📷 Dashboard Preview
-
-
-Use this code in README:
-
-![Sales Dashboard](your-image-file-name.png)
